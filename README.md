@@ -27,7 +27,7 @@ This repository contains my personal notes, code examples, and exercises while l
 
 ## 📁 Repository Structure
 
-```
+```text
 .
 ├── README.md
 ├── chapter-notes/    # Detailed notes for each chapter
