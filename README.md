@@ -6,7 +6,7 @@ This repository contains my personal notes, code examples, and exercises while l
 
 | Chapter | Title | Progress |
 |---------|-------|----------|
-| 1 | Introduction to Kubernetes | ⬜ |
+| 1 | Introduction to Kubernetes | ✔️ |
 | 2 | First steps with Docker and Kubernetes | ⬜ |
 | 3 | Pods: running containers in Kubernetes | ⬜ |
 | 4 | Replication and other controllers: deploying managed pods | ⬜ |
